@@ -1,0 +1,10 @@
+# Dados brutos baixados automaticamente pelo notebook
+data/raw/
+data/occupancy_data.zip
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.DS_Store
